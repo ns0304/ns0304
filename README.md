@@ -23,4 +23,5 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ns0304)](https://github.com/anuraghazra/github-readme-stats)
